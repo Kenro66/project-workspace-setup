@@ -64,3 +64,7 @@ project-workspace-setup.zip       打包好的 skill，可以直接上传
 3. 把能通用的经验更新进 `references/`
 4. 在 `CHANGELOG.md` 里记一笔
 5. 重新打包 `project-workspace-setup.zip`
+
+## 许可
+
+[MIT](LICENSE)：可以自由使用、修改和分发，保留版权声明即可。
